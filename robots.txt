@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://whosaid.com/sitemap.xml
